@@ -122,4 +122,3 @@ MySQLの場合は `connect_args={"check_same_thread": False}` の行も削除し
 
 ## 注意事項
 - `auth.py` の `SECRET_KEY` は本番環境では必ず変更してください
-- cloudflaredなどでローカルサーバーを公開する場合は研修用PCのみで実施してください
